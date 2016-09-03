@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>My Feelings</title>
+</head>
+
+<body>
+    <img src="http://i3.kym-cdn.com/photos/images/newsfeed/000/641/298/448.jpg" alt="Heavy Breathing Cat">
+    <div style="color:#0000FF">
+        <h6>Is my life falling apart?</h6>
+    </div>
+    <p>
+        <a href="index">Remind Yourself Why I Feel Like This</a>
+    </p>
+</body>
+
+</html>
